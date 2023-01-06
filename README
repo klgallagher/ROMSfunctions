@@ -1,5 +1,5 @@
-This repository contains functions I have created for the analysis of Regional Ocean Modeling System data. Functions currently include methods for: 
+This repository contains functions I have created for the analysis of Regional Ocean Modeling System data. Functions currently include methods for calculating: 
     2023: 
-    - calculation of simulated particle residence times in desired regions (RT.sh)
-    - calculation of particle accumulation (number of particles) in desired regions (accumulation.sh)
+    - residence times of simulated particles in desired regions (RT.sh)
+    - particle accumulation (number of particles) in desired regions (accumulation.sh)
     - connectivity metrics of simulated particles across desired regions (connectivity.sh)
